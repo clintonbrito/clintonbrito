@@ -1,5 +1,5 @@
 
-<img align="right" height="500rem" src="https://raw.githubusercontent.com/gist/clintonbrito/fa0e426dcc36f490cdca46460220ba6b/raw/14da0042ce5470fa181216e5248af933376bacc7/githubcard.svg">
+<img align="right" width="300rem" src="https://raw.githubusercontent.com/gist/clintonbrito/fa0e426dcc36f490cdca46460220ba6b/raw/14da0042ce5470fa181216e5248af933376bacc7/githubcard.svg">
 
 <div>
 <img src="https://user-images.githubusercontent.com/105871036/229656979-a98da0e7-f07a-4f4f-b06b-9c023b066859.gif"><br>
