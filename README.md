@@ -21,7 +21,7 @@
 
 <div style="display: inline_block">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clintonbrito&show_icons=true&theme=dracula">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clintonbrito&layout=compact">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clintonbrito&layout=compact&theme=dracula">
 </div>
 
 ### Technologies I am currently studying:
