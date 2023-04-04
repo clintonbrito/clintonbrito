@@ -26,11 +26,25 @@
 
 <img src="https://raw.githubusercontent.com/gist/clintonbrito/83668f99f9c22caa571cf0209cd7618c/raw/8fe5aa637e0612f56c57c567e81874163494c3b5/snake-eating-my-code.svg">
 
-### Technologies I am currently studying:
+### Technologies I am currently using:
 <div style="display: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" />
+    <img align="center" alt="css3" src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" />
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+    <img align="center" alt="linux" src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />
+    <img align="center" alt="react" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
+    <img align="center" alt="nodejs" src="https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=node.js" />
+    <img align="center" alt="eslint" src="https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint" />
+    <img align="center" alt="cypress" src="https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress" />
+    <img align="center" alt="jest" src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" />
+    <img align="center" alt="git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+    <img align="center" alt="github" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
+</div>
+
+<!-- <div style="display: inline_block">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img align="center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -39,9 +53,9 @@
     <img align="center" alt="jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
     <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img align="center" alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
-<div align="center">
+</div> -->
+<br>
+<div>
     <img src="https://user-images.githubusercontent.com/105871036/229659538-87ab2ec3-c584-4781-8d97-97bfd143f654.gif">
 </div>
 
