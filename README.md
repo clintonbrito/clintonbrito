@@ -8,7 +8,8 @@
 
 <br/>
 
-- 🔥 Full Stack Web Developer Student
+### About me:
+- 🔥 Full Stack Web Developer Student from Brazil
 
 - 🔭 I’m currently studying at [Trybe](https://github.com/Tryber)
 
@@ -19,12 +20,16 @@
 - 👨‍💻 More at [/clintonbrito](https://github.com/clintonbrito)
 <br><br><br>
 
+---
+
 <div style="display: inline_block">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clintonbrito&show_icons=true&theme=dracula">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clintonbrito&layout=compact&theme=dracula">
 </div>
 
 <img src="https://raw.githubusercontent.com/gist/clintonbrito/83668f99f9c22caa571cf0209cd7618c/raw/8fe5aa637e0612f56c57c567e81874163494c3b5/snake-eating-my-code.svg">
+
+---
 
 ### Technologies I am currently using:
 <div style="display: inline_block">
@@ -59,7 +64,7 @@
     <img src="https://user-images.githubusercontent.com/105871036/229659538-87ab2ec3-c584-4781-8d97-97bfd143f654.gif">
 </div>
 
-### Contact:
+### Get in touch:
 <a href="https://linkedin.com/in/clintonbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-clintonbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
