@@ -24,6 +24,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clintonbrito&layout=compact&theme=dracula">
 </div>
 
+<img src="https://raw.githubusercontent.com/gist/clintonbrito/83668f99f9c22caa571cf0209cd7618c/raw/8fe5aa637e0612f56c57c567e81874163494c3b5/snake-eating-my-code.svg">
+
 ### Technologies I am currently studying:
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
