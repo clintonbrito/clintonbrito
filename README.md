@@ -3,10 +3,10 @@
 
 <div>
 <img src="https://user-images.githubusercontent.com/105871036/229656979-a98da0e7-f07a-4f4f-b06b-9c023b066859.gif"><br>
-<i>Hello there! 👋</i>
 </div>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&width=435&lines=Hello+there!+👋)](https://git.io/typing-svg)
+<br>
 
 ### About me:
 - 🔥 Full Stack Web Developer Student from Brazil
@@ -58,6 +58,7 @@
     <img align="center" alt="jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
     <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img align="center" alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <i>Hello there! 👋</i>
 </div> -->
 <br>
 <div>
