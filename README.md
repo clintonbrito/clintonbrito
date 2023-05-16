@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently studying at [Trybe](https://github.com/Tryber)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React, tests**
+- 💬 Ask me about **Linux, JavaScript, React, Redux, testing**
 
 - 💹 Fun fact **I worked 6 year in the Financial Market**
 
