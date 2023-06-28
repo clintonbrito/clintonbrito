@@ -39,6 +39,8 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
     <img align="center" alt="react" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
     <img align="center" alt="react" src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux" />
+    <img align="center" alt="github" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />
+    <img align="center" alt="github" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=node.js" />
     <img align="center" alt="eslint" src="https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint" />
     <img align="center" alt="jest" src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" />
