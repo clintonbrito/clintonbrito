@@ -33,9 +33,9 @@
 
 ### Technologies I am currently using:
 <div style="display: inline_block">
-    <img align="center" alt="linux" src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" />
+    <img align="center" alt="linux" height="25" src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />
+    <img align="center" alt="html5" height="25" src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" />
+    <img align="center" alt="css3" height="25" src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" />
     <img align="center" alt="javascript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
     <img align="center" alt="react" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
     <img align="center" alt="react" src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux" />
