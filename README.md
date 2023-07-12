@@ -70,5 +70,5 @@
 
 ### Get in touch:
 <a href="https://linkedin.com/in/clintonbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-clintonbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" height="25" src="https://img.shields.io/badge/-clintonbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
