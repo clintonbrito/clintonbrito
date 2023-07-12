@@ -27,7 +27,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clintonbrito&layout=compact&theme=dracula">
 </div>
 
-<img src="https://raw.githubusercontent.com/clintonbrito/clintonbrito/82d2da5bcd7df8d4efd3b9d7efd30b025c8a075d/github-contribution-grid-snake.svg">
 <img src="https://github.com/clintonbrito/clintonbrito/blob/output/github-contribution-grid-snake-dark.svg">
 
 ---
