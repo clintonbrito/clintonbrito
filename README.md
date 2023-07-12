@@ -36,17 +36,17 @@
     <img align="center" alt="linux" height="25" src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />
     <img align="center" alt="html5" height="25" src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" />
     <img align="center" alt="css3" height="25" src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-    <img align="center" alt="react" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
-    <img align="center" alt="react" src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux" />
-    <img align="center" alt="github" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />
-    <img align="center" alt="github" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=node.js" />
-    <img align="center" alt="eslint" src="https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint" />
-    <img align="center" alt="jest" src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" />
-    <img align="center" alt="jest" src="https://img.shields.io/badge/-React%20Testing%20Library-05122A?style=flat&logo=rtl" />
-    <img align="center" alt="git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
-    <img align="center" alt="github" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
+    <img align="center" alt="javascript" height="25" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+    <img align="center" alt="react" height="25" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
+    <img align="center" alt="react" height="25" src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux" />
+    <img align="center" alt="github" height="25" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />
+    <img align="center" alt="github" height="25" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />
+    <img align="center" alt="nodejs" height="25" src="https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=node.js" />
+    <img align="center" alt="eslint" height="25" src="https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint" />
+    <img align="center" alt="jest" height="25" src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" />
+    <img align="center" alt="jest" height="25" src="https://img.shields.io/badge/-React%20Testing%20Library-05122A?style=flat&logo=rtl" />
+    <img align="center" alt="git" height="25" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+    <img align="center" alt="github" height="25" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
 </div>
 
 <!-- <div style="display: inline_block">
