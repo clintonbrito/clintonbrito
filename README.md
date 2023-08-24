@@ -27,6 +27,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clintonbrito&layout=compact&theme=dracula">
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=clintonbrito&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
 <img src="https://github.com/clintonbrito/clintonbrito/blob/output/github-contribution-grid-snake-dark.svg">
 
 ---
