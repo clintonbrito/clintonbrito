@@ -28,7 +28,7 @@
 </div>
 
 <div style="display: table-cell; text-align: center; vertical-align: middle;">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=clintonbrito&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+    <img src="https://streak-stats.demolab.com/?user=clintonbrito&theme=dracula&hide_border=true">
 </div>
 
 <img src="https://github.com/clintonbrito/clintonbrito/blob/output/github-contribution-grid-snake-dark.svg">
