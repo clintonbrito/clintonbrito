@@ -29,17 +29,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=clintonbrito&theme=dracula)](https://git.io/streak-stats)
 
-<picture>
-  <source
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clintonbrito&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clintonbrito&theme=github"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clintonbrito&theme=dracula)
 
 <img src="https://github.com/clintonbrito/clintonbrito/blob/output/github-contribution-grid-snake-dark.svg">
 
@@ -64,20 +54,6 @@
     <img align="center" alt="github" height="20" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
 </div>
 
-<!-- <div style="display: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
-    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img align="center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="eslint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
-    <img align="center" alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
-    <img align="center" alt="jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
-    <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img align="center" alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-    <i>Hello there! 👋</i>
-</div> -->
 <br>
 <div>
     <img src="https://user-images.githubusercontent.com/105871036/229659538-87ab2ec3-c584-4781-8d97-97bfd143f654.gif">
