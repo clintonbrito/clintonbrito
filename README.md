@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Linux, JavaScript, React, Redux, testing**
 
-- 💹 Fun fact **I worked 6 year in the Financial Market**
+- 💹 Fun fact **I worked 6 years in the Financial Market**
 
 - 👨‍💻 More at [clintonbrito.com](https://clintonbrito.com)
 <br><br><br>
