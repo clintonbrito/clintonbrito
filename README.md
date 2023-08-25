@@ -28,8 +28,8 @@
 </div>
 
 <div style="display: inline_block">
-    <img height="120em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clintonbrito&theme=dracula">
-    <img height="120em" src="https://streak-stats.demolab.com?user=clintonbrito&theme=dracula)](https://git.io/streak-stats">
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clintonbrito&theme=dracula">
+    <img height="180em" src="https://streak-stats.demolab.com?user=clintonbrito&theme=dracula">
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clintonbrito&theme=dracula)
