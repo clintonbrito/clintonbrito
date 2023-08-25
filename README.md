@@ -28,8 +28,8 @@
 </div>
 
 <div style="display: inline_block">
-    <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clintonbrito&theme=dracula">
-    <img height="140em" src="https://streak-stats.demolab.com?user=clintonbrito&theme=dracula">
+    <img height="135em" src="https://streak-stats.demolab.com?user=clintonbrito&theme=dracula">
+    <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clintonbrito&theme=dracula">
 </div>
 
 <img src="https://github.com/clintonbrito/clintonbrito/blob/output/github-contribution-grid-snake-dark.svg">
