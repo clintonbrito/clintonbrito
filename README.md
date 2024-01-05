@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Linux, TypeScript, JavaScript, Node, React, testing**
 
-- 💹 Fun fact **I worked 6 years in the Financial Market**
+- 💹 Fun fact: **I worked 6 years in the Financial Market**
 
 - 👨‍💻 More at [clintonbrito.com](https://clintonbrito.com) (work in progress)
 <br><br><br>
