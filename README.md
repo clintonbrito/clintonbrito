@@ -14,23 +14,30 @@
 
 - 💹 Fun fact: **I worked 6 years in the Financial Market**
 
-- 👨‍💻 More at [clintonbrito.com](https://clintonbrito.com) (work in progress)
+- 💻 More at [clintonbrito.com](https://clintonbrito.com) (work in progress)
 <br><br><br>
+
+### 👨‍💻 Coding now listening to:
+<div style="display: inline_block" align="center">
+    <img height="280em" src="https://spotify-github-profile.vercel.app/api/view?uid=clintongeeks&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
+    <img height="280em" src="https://spotify-recently-played-readme.vercel.app/api?user=clintongeeks&unique={true|1|on|yes}">
+</div>
 
 ---
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clintonbrito&show_icons=true&theme=dracula">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clintonbrito&layout=compact&theme=dracula">
 </div>
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
     <img height="135em" src="https://streak-stats.demolab.com?user=clintonbrito&theme=dracula">
     <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clintonbrito&theme=dracula">
 </div>
 
-<img src="https://github.com/clintonbrito/clintonbrito/blob/output/github-contribution-grid-snake-dark.svg">
-
+<div align="center">
+    <img src="https://github.com/clintonbrito/clintonbrito/blob/output/github-contribution-grid-snake-dark.svg">
+</div>
 ---
 
 ### Technologies I am currently using:
