@@ -6,16 +6,13 @@
 <br>
 
 ### About me:
-- 🔥 Software Developer from Brazil
 
-- 🔭 I’m currently studying at [Trybe](https://github.com/Tryber)
-
-- 💬 Ask me about **Linux, TypeScript, JavaScript, Node, React, testing**
-
-- 💹 Fun fact: **I worked 6 years in the Financial Market**
-
-- 💻 More at [clintonbrito.com](https://clintonbrito.com)
-<br><br><br>
+* 🔥 Software Developer from Brazil
+* 🔭 I’m currently studying at [Trybe](https://github.com/Tryber)
+* 💬 Ask me about **Linux, TypeScript, JavaScript, Node, React, testing**
+* 💹 Fun fact: **I worked 6 years in the Financial Market**
+* 💻 More at [clintonbrito.com](https://clintonbrito.com)
+<br>
 
 ### 👨‍💻 Coding now listening to:
 <div style="display: inline_block" align="center">
@@ -38,6 +35,7 @@
 <div align="center">
     <img src="https://github.com/clintonbrito/clintonbrito/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
+
 ---
 
 ### Technologies I am currently using:
