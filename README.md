@@ -5,14 +5,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&width=435&lines=Hello+there!+👋)](https://git.io/typing-svg)
 <br>
 
-### About me:
+### 🕵️ About me:
 
 * 🔥 Software Developer from Brazil
 * 🔭 I’m currently studying at [Trybe](https://github.com/Tryber)
 * 💬 Ask me about **Linux, TypeScript, JavaScript, Node, React, testing**
 * 💹 Fun fact: **I worked 6 years in the Financial Market**
 * 💻 More at [clintonbrito.com](https://clintonbrito.com)
-<br>
+
+##
 
 ### 👨‍💻 Coding now listening to:
 <div style="display: inline_block" align="center">
@@ -20,7 +21,9 @@
     <img height="230em" src="https://spotify-recently-played-readme.vercel.app/api?user=clintongeeks&unique={true|1|on|yes}">
 </div>
 
----
+##
+
+### 📊 GitHub Stats:
 
 <div style="display: inline_block" align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clintonbrito&show_icons=true&theme=dracula">
@@ -36,9 +39,9 @@
     <img src="https://github.com/clintonbrito/clintonbrito/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
 
----
+##
 
-### Technologies I am currently using:
+### 🛠️ Technologies I am currently using:
 <div style="display: inline_block">
     <img align="center" alt="typescript" height="20" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
     <img align="center" alt="javascript" height="20" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
@@ -66,7 +69,7 @@
     <img src="https://user-images.githubusercontent.com/105871036/229659538-87ab2ec3-c584-4781-8d97-97bfd143f654.gif">
 </div>
 
-### Get in touch:
+### 🤝 Get in touch:
 <a href="https://linkedin.com/in/clintonbrito" target="_blank">
   <img align="center" height="20" src="https://img.shields.io/badge/-clintonbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
