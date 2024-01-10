@@ -14,7 +14,7 @@
 
 - 💹 Fun fact: **I worked 6 years in the Financial Market**
 
-- 💻 More at [clintonbrito.com](https://clintonbrito.com) (work in progress)
+- 💻 More at [clintonbrito.com](https://clintonbrito.com)
 <br><br><br>
 
 ### 👨‍💻 Coding now listening to:
