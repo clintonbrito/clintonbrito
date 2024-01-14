@@ -8,9 +8,10 @@
 ### 🕵️ About me:
 
 * 🔥 Software Developer from Brazil
-* 🔭 I’m currently studying at [Trybe](https://github.com/Tryber)
-* 💬 Ask me about **Linux, TypeScript, JavaScript, Node, React, testing**
-* 💹 Fun fact: **I worked 6 years in the Financial Market**
+* 🔭 I’m currently learning Java and Angular
+* 💬 Ask me about Linux, TypeScript, JavaScript, Node, React, testing
+* 💹 Fun fact: I worked 6 years in the Financial Market
+* 💯 I'm addicted to: movies, soundtracks, sports, explore the world
 * 💻 More at [clintonbrito.com](https://clintonbrito.com)
 
 ##
@@ -47,11 +48,14 @@
     <img align="center" alt="javascript" height="20" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
     <img align="center" alt="nodejs" height="20" src="https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=node.js" />
     <img align="center" alt="express" height="20" src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express" />
-    <img align="center" alt="sequelize" height="20" src="https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize" />
+    <img align="center" alt="java" height="20" src="https://img.shields.io/badge/-%E2%98%95%20Java-05122A?style=flat&logo=" />
+    <img align="center" alt="spring-boot" height="20" src="https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot" />
     <img align="center" alt="react" height="20" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
     <img align="center" alt="redux" height="20" src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux" />
+    <img align="center" alt="angular" height="20" src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular" />
     <img align="center" alt="docker" height="20" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />
     <img align="center" alt="mysql" height="20" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />
+    <img align="center" alt="sequelize" height="20" src="https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize" />
     <img align="center" alt="jest" height="20" src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" />
     <img align="center" alt="chai" height="20" src="https://img.shields.io/badge/-Chai-05122A?style=flat&logo=chai" />
     <img align="center" alt="rtl" height="20" src="https://img.shields.io/badge/-React%20Testing%20Library-05122A?style=flat&logo=rtl" />
