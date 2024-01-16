@@ -49,7 +49,7 @@
     <img align="center" alt="nodejs" height="20" src="https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=node.js" />
     <img align="center" alt="express" height="20" src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express" />
     <img align="center" alt="java" height="20" src="https://img.shields.io/badge/-%E2%98%95%20Java-05122A?style=flat&logo=" />
-    <img align="center" alt="spring-boot" height="20" src="https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot" />
+    <img align="center" alt="spring-boot" height="20" src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring" />
     <img align="center" alt="react" height="20" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
     <img align="center" alt="redux" height="20" src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux" />
     <img align="center" alt="angular" height="20" src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular" />
