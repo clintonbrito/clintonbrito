@@ -42,7 +42,7 @@
 
 ##
 
-### 🛠️ Technologies and tools that I'm currently using:
+### 🛠️ Things I code with:
 <div style="display: inline_block">
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -59,10 +59,12 @@
     <img alt="RTL" src="https://img.shields.io/badge/-Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" />
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
     <img alt="Chai" src="https://img.shields.io/badge/-Chai-A1070C?style=flat-square&logo=chai&logoColor=white" />
+    <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-E66000?style=flat-square&logo=firefox&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-%E2%98%95%20Java-ED8B00?style=flat-square&logo=" />
     <img alt="Bruno" src="https://img.shields.io/badge/-🐶 Bruno-f4aa41?style=flat-square&logo=&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-F4D82B?style=flat-square&logo=linux&logoColor=000000" />
     <img alt="JavasSript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=323330" />
+    <img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" />
     <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
