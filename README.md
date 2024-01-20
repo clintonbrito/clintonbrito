@@ -44,28 +44,28 @@
 
 ### 🛠️ Technologies I am currently using:
 <div style="display: inline_block">
-    <img align="center" alt="typescript" height="20" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
-    <img align="center" alt="javascript" height="20" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-    <img align="center" alt="nodejs" height="20" src="https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=node.js" />
-    <img align="center" alt="express" height="20" src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express" />
-    <img align="center" alt="java" height="20" src="https://img.shields.io/badge/-%E2%98%95%20Java-05122A?style=flat&logo=" />
-    <img align="center" alt="spring-boot" height="20" src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring" />
-    <img align="center" alt="react" height="20" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
-    <img align="center" alt="redux" height="20" src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux" />
-    <img align="center" alt="angular" height="20" src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular" />
-    <img align="center" alt="docker" height="20" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />
-    <img align="center" alt="mysql" height="20" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />
-    <img align="center" alt="sequelize" height="20" src="https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize" />
-    <img align="center" alt="jest" height="20" src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" />
-    <img align="center" alt="chai" height="20" src="https://img.shields.io/badge/-Chai-05122A?style=flat&logo=chai" />
-    <img align="center" alt="rtl" height="20" src="https://img.shields.io/badge/-React%20Testing%20Library-05122A?style=flat&logo=rtl" />
-    <img align="center" alt="mocha" height="20" src="https://img.shields.io/badge/-Mocha-05122A?style=flat&logo=mocha" />
-    <img align="center" alt="eslint" height="20" src="https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint" />
-    <img align="center" alt="html5" height="20" src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" />
-    <img align="center" alt="css3" height="20" src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" />
-    <img align="center" alt="linux" height="20" src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />
-    <img align="center" alt="git" height="20" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
-    <img align="center" alt="github" height="20" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="JavasSript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=323330" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="Express" src="https://img.shields.io/badge/-Express-303030?style=flat-square&logo=express" />
+    <img alt="Java" src="https://img.shields.io/badge/-%E2%98%95%20Java-ED8B00?style=flat-square&logo=" />
+    <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
+    <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-2379BD?style=flat-square&logo=sequelize&logoColor=white" />
+    <img alt="Jest" src="https://img.shields.io/badge/-Jest-C63D14?style=flat-square&logo=jest&logoColor=white" />
+    <img alt="Chai" src="https://img.shields.io/badge/-Chai-A1070C?style=flat-square&logo=chai&logoColor=white" />
+    <img alt="RTL" src="https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" />
+    <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
+    <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-3A33D1?style=flat-square&logo=eslint&logoColor=white" />
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34E26?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2162AF?style=flat-square&logo=css3&logoColor=white" />
+    <img alt="Linux" src="https://img.shields.io/badge/-Linux-F4D82B?style=flat-square&logo=linux&logoColor=000000" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-221F1B?style=flat-square&logo=github&logoColor=white" />
 </div>
 
 <br>
