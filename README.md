@@ -9,7 +9,7 @@
 
 * 🔥 Software Developer from Brazil
 * 🔭 I’m currently learning Java and Angular
-* 💬 Ask me about Linux, TypeScript, JavaScript, Node, React, testing
+* 💬 Ask me about Linux, TypeScript, JavaScript, Node, Java, testing
 * 💹 Fun fact: I worked 6 years in the Financial Market
 * 💯 I'm addicted to: movies, soundtracks, sports, explore the world
 * 💻 More at [clintonbrito.com](https://clintonbrito.com)
@@ -63,13 +63,16 @@
     <img alt="Java" src="https://img.shields.io/badge/-%E2%98%95%20Java-ED8B00?style=flat-square&logo=" />
     <img alt="Bruno" src="https://img.shields.io/badge/-🐶 Bruno-f4aa41?style=flat-square&logo=&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-F4D82B?style=flat-square&logo=linux&logoColor=000000" />
-    <img alt="JavasSript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=323330" />
-    <img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=323330" />
+    <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D.svg?style=flat-square&logo=swagger&logoColor=black" />
     <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+    <img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
     <img alt="Express" src="https://img.shields.io/badge/-Express-303030?style=flat-square&logo=express" />
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-293137?style=flat-square&logo=gnu-bash&logoColor=white" />
+    <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" />
     <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-1c1d26?style=flat-square&logo=visual-studio-code&logoColor=0078d7" />
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-221F1B?style=flat-square&logo=github&logoColor=white" />
 </div>
