@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Coding now listening to:
 <div style="display: inline_block" align="center">
-    <img height="230em" src="https://spotify-github-profile.kittinanx.com/api/view?uid=clintongeeks&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+    <img height="230em" src="https://spotify-github-profile.kittinanx.com/api/view?uid=clintongeeks&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=false">
     <img height="230em" src="https://spotify-recently-played-readme.vercel.app/api?user=clintongeeks&unique={true|1|on|yes}">
 </div>
 
