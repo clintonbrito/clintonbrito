@@ -8,8 +8,8 @@
 ### 🕵️ About me:
 
 * 🔥 Software Developer from Brazil
-* 🔭 I’m currently learning Java and Angular
-* 💬 Ask me about Linux, TypeScript, JavaScript, Node, Java, testing
+* 🔭 I’m currently diving into Java
+* 💬 Ask me about Linux, TypeScript, Node, Java, testing
 * 💹 Fun fact: I worked 6 years in the Financial Market
 * 💯 I'm addicted to: movies, soundtracks, sports, explore the world
 * 💻 More at [clintonbrito.com](https://clintonbrito.com)
