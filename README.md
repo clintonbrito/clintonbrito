@@ -8,7 +8,7 @@
 ### 🕵️ About me:
 
 * 🔥 Software Developer from Brazil
-* 🔭 I’m currently learning Clean Architecture
+* 🔭 I’m currently learning NestJS and Clean Architecture
 * 💬 Ask me about Linux, TypeScript, Node, Java, testing
 * 💹 Fun fact: I worked 6 years in the Financial Market
 * 💯 I'm addicted to: movies, soundtracks, sports, explore the world
