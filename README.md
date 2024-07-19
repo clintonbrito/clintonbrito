@@ -9,7 +9,7 @@
 
 * 🔥 Software Developer from Brazil
 * 🔭 I’m currently learning NestJS and Clean Architecture
-* 💬 Ask me about Linux, TypeScript, Node, Java, testing
+* 💬 Ask me about Linux, Java, Spring, TypeScript, Node, testing
 * 💹 Fun fact: I worked 6 years in the Financial Market
 * 💯 I'm addicted to: movies, soundtracks, sports, explore the world
 * 💻 More at [clintonbrito.com](https://clintonbrito.com)
@@ -52,6 +52,7 @@
     <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-3A33D1?style=flat-square&logo=eslint&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+    <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-FE315D?style=flat-square&logo=intellijidea&logoColor=black" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34E26?style=flat-square&logo=html5&logoColor=white" />
@@ -72,7 +73,7 @@
     <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
     <img alt="Express" src="https://img.shields.io/badge/-Express-303030?style=flat-square&logo=express" />
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-293137?style=flat-square&logo=gnu-bash&logoColor=white" />
-    <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" />
+    <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon&logoColor=FF9900" />
     <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-1c1d26?style=flat-square&logo=visual-studio-code&logoColor=0078d7" />
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-221F1B?style=flat-square&logo=github&logoColor=white" />
 </div>
