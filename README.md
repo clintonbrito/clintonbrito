@@ -8,7 +8,7 @@
 ### 🕵️ About me:
 
 * 🔥 Software Developer from Brazil
-* 🔭 I’m currently learning about cloud services and preparing for the AWS Solutions Architect Associate certification
+* 🔭 I’m currently learning about cloud services and preparing for the AWS SAA-C03 certification
 * 💬 Ask me about Linux, Java, Spring, TypeScript, Node, testing
 * 💹 Fun fact: I worked 6 years in the Financial Market
 * 💯 I'm addicted to: movies, soundtracks, sports, explore the world
